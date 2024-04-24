@@ -1,0 +1,12 @@
+Import the Necessary modules using. the following code in the console.
+1. Speech Recognition
+   pip install SpeechRecognition
+
+2. Pyttsx3 - Python Text-To-Speech module
+   pip install pyttsx3
+
+3. Wikipedia - Wikipedia module to surf through topics
+   pip install wikipedia
+
+4. Requests - request module to make https request 
+   pip install requests 
